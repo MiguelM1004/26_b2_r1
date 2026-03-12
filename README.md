@@ -38,9 +38,11 @@ Muestra estudiante por su respectivo correo
 
 # PUT
 Actualiza la información de cada estudiante
+![PUT](imagenes/put.png)
 
 ## DELETE
 Se eliminó a un estudiante de los creados
+![DELETE](imagenes/delete.png)
 
 ## 6. Captura de pantalla resultado pruebas internas
 Se ejecuta comando './mvnw test', donde se verifica que las pruebas unitarias y de integración se realizan de manera exitosa y pasan.
